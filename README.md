@@ -6,7 +6,7 @@
 
 Este é um projeto desenvolvido como desafio prático da **sprint de HTML e CSS** do curso **Ford Enter**. O projeto consiste em um **website responsivo da Ford Brasil**, com páginas de home, lançamento de produtos e contato. O objetivo é consolidar os conhecimentos em marcação HTML semântica e estilização CSS, criando interfaces responsivas e bem estruturadas.
 
-Acesse o site aqui: (https://novafordranger.netlify.app/)
+Acesse o site aqui: https://novafordranger.netlify.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
