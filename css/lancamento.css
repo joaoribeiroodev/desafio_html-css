@@ -54,10 +54,11 @@ header {
     font-weight: bold;
 }
 
+/*conteudo*/
 .video-container {
   position: relative;
   width: 100%;
-  max-width: 700px;
+  max-width: 1200px;
   margin: 0 auto;
   aspect-ratio: 16 / 9;
 }
@@ -84,7 +85,7 @@ header {
     width: 320px; 
 }
 
-.card > img {
+.card img {
     width: 100%;
     max-width: 280px;
     object-fit: contain;
@@ -126,6 +127,8 @@ input[type="checkbox"] {
     cursor: pointer;
 }
 
+
+/*rodapé*/
 footer {
     background-color: #1D3D81;
     display: grid;

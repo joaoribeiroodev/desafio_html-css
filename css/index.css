@@ -54,7 +54,7 @@ header {
     font-weight: bold;
 }
 
-/*conteudo do main*/
+/*conteudo*/
 figure {
     text-align: center;
     padding: 20px 0;
@@ -80,7 +80,7 @@ figure {
     text-decoration: none;
 }
 
-/*footer*/
+/*rodapé*/
 footer {
     background-color: #1D3D81;
     display: grid;
