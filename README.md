@@ -14,9 +14,9 @@ Acesse o site aqui: https://novafordranger.netlify.app/
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **HTML5** - Estrutura semântica e acessibilidade (43.1%)
-- **CSS3** - Estilização avançada e responsividade (55.6%)
-- **JavaScript** - Interatividade e dinamismo (1.3%)
+- **HTML5** - Estrutura semântica e acessibilidade (42.6%)
+- **CSS3** - Estilização avançada e responsividade (56.2%)
+- **JavaScript** - Interatividade e dinamismo (1.2%)
 
 ## ✨ Características
 
