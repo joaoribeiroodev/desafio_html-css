@@ -63,14 +63,14 @@ figure {
 .produto-lancamento {
     display: block;
     margin: 0 auto;
-    width: 90%;
-    max-width: 170vh;
+    width: 100%;
+    max-width: 150vh;
     height: auto;
 }
 
 .texto-produto {
-    margin-top: 15px;
-    font-size: 15px;
+    margin-top: 45px;
+    font-size: 18px;
     color: #333;
 }
 
@@ -142,7 +142,7 @@ footer {
 
     footer {
         grid-template-columns: 1fr;
-        gap: 20px;
+        gap: 8px;
     }
 
     .logo-redes-sociais, .copyright, .logo-footer {
