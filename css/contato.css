@@ -64,7 +64,8 @@ form {
 h1 {
     color: black;
     font-size: 20px;
-    margin-bottom: -5px;
+    margin-left: 5px;
+    margin-bottom: -8px;
 }
 
 .container-contatos {
@@ -88,7 +89,7 @@ input, select {
     display: flex;
     flex-direction: column;
     margin-left: auto;
-    margin-top: -100px;
+    margin-top: -160px;
     gap: 10px;
 }
 
